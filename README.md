@@ -366,21 +366,6 @@ print(classification_report(y_test, clf.predict(X_test), target_names=['Afraid',
 
 ---
 
-## Citation
-
-If you use this code or methodology in your research, please cite:
-
-```bibtex
-@misc{fnirs-emotion-gcn-2024,
-  title   = {Decoding Emotions through fNIRS: Graph-Based Semantic Analysis},
-  author  = {Divyajyoti},
-  year    = {2024},
-  url     = {https://github.com/divyajyoti9431/Decoding-Emotions-through-FNIRS}
-}
-```
-
----
-
 ## License
 
 This project is released under the [MIT License](LICENSE).
